@@ -56,7 +56,8 @@ line-height: 1.46428571;
 font-weight: 300;
 }
 .header__img {
-    min-width: 160px;
+	height: 230px;
+    min-width: 230px;
     max-width: 50%;
     margin: 20px;
     
@@ -80,7 +81,7 @@ margin: auto;
 }
 
 .h1_home{
-	font-size: 50px;
+	font-size: 45px;
 	font-family: arvo;
 	font-weight: 300;
 	letter-spacing: 6px;
@@ -1085,7 +1086,15 @@ color: #ECEBEB;
 		.abcen1{position: absolute;top: 28%;}
 		
 		.h1_home {
-			font-size: 30px;
+			font-size: 26px;
+		}
+		.header__img {
+			height: 160px;
+			min-width: 200px;
+			max-width: 50%;
+			margin: 20px;
+			
+			
 		}
 		h1, .h1 {
 			font-size: 50px;
